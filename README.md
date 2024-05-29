@@ -32,30 +32,30 @@ Dataset access:
 
 - Total of produced quantity and total sold quantity by month/year/quarter (Fact_product table)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/cd85bed6-6b5f-4244-8108-5c2e6e86903e/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/6bd0399d-c42d-4333-b169-375e64ed0cc3)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/c4623c85-7ce8-4131-938b-ec333ed546e4/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/cf5de1af-3083-4c1b-aee7-217262c34edb)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/1d669a11-00bb-4e92-bedf-7671536971ba/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/f1f5962a-6ce9-4cd7-8433-b1359df1fc4e)
 
 - ProductID, Product Name, Category, Subcategory (Dim_Category table)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/5366fd7a-a77e-4f35-9f1f-22f8dd39f67f/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/96b389bd-4756-4b0f-9b42-4e0f4eb334bf)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/39620505-79f6-4068-98d6-7287b80c50d8/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/98b795a6-2475-4ca9-8732-38ff5616a279)
 
 ## 2. Connect data to Power BI
 
 - Connect queries above and available tables of dataset to PBI
 - Modelling
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/0fe435a4-6bb9-49ce-aec7-2a93da156163/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/9ee32224-4eef-4aa2-8977-8b9ffbdc606c)
 
 ## 3. Build dashboard
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/a4661154-8e94-4a59-9017-75080ca0717f/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/c2a79222-5245-42b4-8284-e24c9960f2a2)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/c98d1675-0886-45e2-93b0-0138a167e9e7/Untitled.png)
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/e31dea33-a14e-4b9d-bfde-647785462354)
 
 # III. Insight
 
