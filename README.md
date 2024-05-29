@@ -53,9 +53,10 @@ Dataset access:
 
 ## 3. Build dashboard
 
+![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/e31dea33-a14e-4b9d-bfde-647785462354)
+
 ![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/c2a79222-5245-42b4-8284-e24c9960f2a2)
 
-![alt](https://github.com/khoatna065/PBI_Inventory_Dashboard/assets/167158955/e31dea33-a14e-4b9d-bfde-647785462354)
 
 # III. Insight
 
