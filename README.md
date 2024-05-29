@@ -63,15 +63,15 @@ Dataset access:
 1. Revenue - Inventory overview 
 - Revenue tends to increase steadily from 2011 to the end of 2013. Every year, revenue usually peaks in the third quarter and gradually declines in the fourth quarter.
 - Stock to sales ratio (average inventory value/sales) usually tends to decrease in the first quarter and increase in the following quarters. In 2014, this ratio increased significantly ⇒ Inventory efficiency is decreasing.
-1. Revenue - Inventory by Category
+2. Revenue - Inventory by Category
 - Revenue is only recorded from 2 categories: Bikes and Components
 - The largest revenue come from the Bikes category at 140 million (88%), 7 times more than Components category.
 - The Bikes category has the largest inventory value of 24,44M, nearly 4 times higher than the Components category (9M). The total stock value of other categories (Other, Clothing, Accessories) are not worth considering.
-1. Revenue - Inventory by Sub-Category
+3. Revenue - Inventory by Sub-Category
 - Top 3 Subcategory belong to Bikes category including Road Bikes, Mountain Bikes, and Touring Bikes, the rest belong to Components category.
-1. Revenue - Inventory by Product
+4. Revenue - Inventory by Product
 - Almost top sales products are belong to Bikes Category
-1. Inventory by Location
+5. Inventory by Location
 - Locations that are occupying the highest amount of inventory are Subassembly (95K units) and Miscellaneous Storage (83K units), but have low total inventory values (3.3M and 1.5M respectively) => Store many items that are low-value
 - Location Final Assembly, although not having a high inventory volume (20K, respectively), has the highest total inventory value (13.6M respectively) => Store items that are high-value.
 
